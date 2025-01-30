@@ -116,3 +116,36 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões. Compartilhe sua
 
 ## Contato
 Para dúvidas técnicas, entre em contato com o suporte da Alura: suporte@alura.com.br
+
+# Imersão Front-end - Aula 4
+
+## Descrição
+Nesta aula, exploramos conceitos fundamentais de CSS e JavaScript, aplicando-os na construção de uma página inspirada em um serviço de streaming de música. Aprendemos a estruturar nossos elementos com CSS Grid e a adicionar interatividade com JavaScript.
+
+## Conteúdos Abordados
+- Introdução ao CSS Grid Layout
+- Responsividade com Media Queries
+- Manipulação do DOM com JavaScript
+- Consumo de APIs com JSON Server
+- Criação de uma API fake para testes
+
+## Estrutura do Projeto
+- **HTML**: Estrutura básica da página com cards para artistas.
+- **CSS**: Estilização utilizando Flexbox e Grid, além de media queries para responsividade.
+- **JavaScript**: Interatividade com eventos e manipulação do DOM, além de consumo de uma API fake.
+
+## Links Úteis
+- [Repositório da Aula](https://github.com/guilhermeonrails/imersao-front/tree/aula_4)
+- [Pasta de Assets](https://drive.google.com/drive/folders/1xSgUVBhs-ccsRraz0rn9R0epRYwVqTTH?usp=sharing)
+- [Código Completo da Imersão](https://github.com/alura-cursos/spotify-imersao/tree/main)
+
+## Exercício Proposto
+Crie uma nova API fake utilizando JSON Server com dados de filmes ou séries. Implemente uma busca similar à que fizemos na aula, exibindo os resultados na tela.
+
+## Dicas
+- Utilize o console do navegador para debugar seu código JavaScript.
+- Teste a responsividade da sua página em diferentes tamanhos de tela.
+- Explore as propriedades do CSS Grid para criar layouts interessantes.
+
+## Conclusão
+Ao final da aula, você terá uma compreensão mais profunda sobre como combinar HTML, CSS e JavaScript para criar páginas web interativas e responsivas. Continue praticando e explorando novas funcionalidades!
